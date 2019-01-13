@@ -1,0 +1,6 @@
+port: 8888
+socks-port: 8889
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: 0.0.0.0:6170
