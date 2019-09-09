@@ -43,7 +43,7 @@ Shadowrocket：https://raw.githubusercontent.com/seqilove/unicorncross/master/Sh
 Shadowrocket回国线路：https://raw.githubusercontent.com/seqilove/unicorncross/master/go2cn.conf
 
 Quantumult_Filter：https://raw.githubusercontent.com/seqilove/unicorncross/master/Quantumult/Quantumult.conf
-
+Quantumult_Filter_回国线路：https://raw.githubusercontent.com/seqilove/unicorncross/master/Quantumult/Quantumult_go2cn.conf
 Quantumult_Rejection：https://raw.githubusercontent.com/seqilove/unicorncross/master/Quantumult/Quantumult_URL.conf
 ````
 
